@@ -7,7 +7,7 @@ Open up the command line in the folder with the .exe file by click the path line
 
 Then simply type the name of the file and hit enter to download today's lab file, or add arguments like shown below for more options.
 
-```batch
+```text
 fetch-map.exe [-h] [-date DATE] [-lab LAB] [-format FORMAT] [-dir DIR]
 OR
 python fetch-map.py [-h] [-date DATE] [-lab LAB] [-format FORMAT] [-dir DIR]
