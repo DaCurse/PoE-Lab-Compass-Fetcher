@@ -1,7 +1,7 @@
 # PoE-Lab Compass Fetcher
 A simple script to fetch lab compass files from <https://poelab.com> easily.
 
-## Usage:
+## Usage
 
 Open up the command line in the folder with the .exe file by click the path line and typing "cmd", then pressing Enter [example](https://prnt.sc/lp6kks)
 
