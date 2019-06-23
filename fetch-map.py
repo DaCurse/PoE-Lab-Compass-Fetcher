@@ -44,7 +44,6 @@ if __name__ == '__main__':
 			print('the directory {:s} does not exist'.format(args.dir))
 			input('Press enter to continue...')
 			_exit(1)
-			
 	args.date = tuple(args.date.split('-'))			
 	fetch_json(args.lab, args.date, args.format)
 	input('Press enter to continue...')
